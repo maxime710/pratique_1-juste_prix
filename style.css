@@ -1,0 +1,31 @@
+body
+{
+    background: brown;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+input
+{
+    background: silver;
+    border-radius: 5px;
+    border 1px solid black;
+}
+button
+{
+    background: silver;
+    border-radius: 5px;
+    border 1px solid black;
+
+}
+#compteur
+{
+    color: red;
+}
+
+#resultat
+{
+    color: blue;
+    font-size: 125%;
+}
